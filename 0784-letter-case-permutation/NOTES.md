@@ -1,0 +1,1 @@
+we have to push in ans only when the whole string get traverse otherwise it will add a same copy unnecessarily 
